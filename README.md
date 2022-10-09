@@ -7,8 +7,9 @@ Check to see if your computer is running Raylib Python CFFI 3.7 and Python 3.8.0
 ```
 python3 -m pip install raylib
 ```
-Once the necessary libraries have been installed, use a terminal and navigate to the project's root folder. Run the following command to launch the program. ```
+Once the necessary libraries have been installed, use a terminal and navigate to the project's root folder. Run the following command to launch the program. 
 
+```
 python3 cycle
 ```
 You can also run the program from an IDE like Visual Studio Code. Start your IDE and open the 
