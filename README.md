@@ -29,7 +29,6 @@ root                    (project root folder)
 ---
 * Python 3.8.0
 * Raylib Python CFFI 3.7
-```
 
 ## Authors
 ---
